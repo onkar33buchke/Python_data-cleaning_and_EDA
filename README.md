@@ -14,5 +14,5 @@ Github: https://github.com/PlayingNumbers/ds_salary_proj
     - Column for simplified job title and Seniority
 
 * Exploratory Data Analysis:<br>
- I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
- ![image](https://user-images.githubusercontent.com/91064847/148635441-d860ec24-ff0f-49cf-8616-2e453f76caa0.png)
+ I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.<br>
+ !(https://github.com/onkar33buchke/Python_data-cleaning_and_EDA/blob/main/salary_by_job_title.png)

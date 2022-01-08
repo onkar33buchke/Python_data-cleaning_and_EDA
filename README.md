@@ -15,4 +15,4 @@ Github: https://github.com/PlayingNumbers/ds_salary_proj
 
 * Exploratory Data Analysis:<br>
  I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.<br>
- !(https://github.com/onkar33buchke/Python_data-cleaning_and_EDA/blob/main/salary_by_job_title.png)
+ ![](https://github.com/onkar33buchke/Python_data-cleaning_and_EDA/blob/main/top_states.png) ![](https://github.com/onkar33buchke/Python_data-cleaning_and_EDA/blob/main/salary_by_job_title.png)

@@ -13,8 +13,6 @@ Github: https://github.com/PlayingNumbers/ds_salary_proj
     - Made a new column for company state
     - Column for simplified job title and Seniority
 
-* Exploratory Data Analysis:
+* Exploratory Data Analysis:<br>
  I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
  ![image](https://user-images.githubusercontent.com/91064847/148635441-d860ec24-ff0f-49cf-8616-2e453f76caa0.png)
- ![image](https://user-images.githubusercontent.com/91064847/148635456-36920498-8d8d-4613-bec7-76fe2d7e6438.png)
-
